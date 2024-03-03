@@ -1,5 +1,4 @@
 import Board from './Board.jsx';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {

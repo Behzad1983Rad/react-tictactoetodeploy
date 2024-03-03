@@ -4,10 +4,7 @@ import Message from './Message'
 
 let lastFirstPlayed = 1
 
-export default function Board({
-    // All Props
-   
-}){
+export default function Board(){
 
 
     const winningCombos = [
